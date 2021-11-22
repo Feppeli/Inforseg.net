@@ -1,0 +1,20 @@
+header{
+    padding: 10px;
+    justify-content: space-between;
+    background-color: #2F8BE7;
+}
+ .contain{
+    display: flex;
+}
+
+#headerSide1{
+    margin-left: 30px;
+}
+
+
+header a{
+    font-weight: 500;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}

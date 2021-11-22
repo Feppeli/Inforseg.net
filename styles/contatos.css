@@ -1,0 +1,41 @@
+#contatos{
+    padding: 90px;
+    background-color: #2F8BE7;
+}   
+
+#h1contatos{
+    text-align: center;
+    font-size: 35px;
+}
+
+.elemento2{
+    margin-top: 60px;
+    text-align: center;
+    color: #fff;
+}
+
+#btncontato{
+    color: #2F8BE7;
+    text-align: center;
+    background-color: #fff;
+    padding: 16px 45px;
+    border-radius: 25px;
+}
+
+@media (max-width:700px){
+    #contain2{
+        flex-direction: column;
+    }
+    #h1contatos h1{
+        font-size: 32px;
+    }
+}
+
+@media (max-width:460px){
+    #btncontato{
+        padding: 12px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+}
+

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*
+body{
+    background-color: hsl(0, 5%, 64%);
+    background-image: url(../Material/Optic-fiber-light-network_3840x2160.jpg);
+    background-repeat: no-repeat;
+    
+}
+*/
+a, p, h1, span{
+    font-family: 'Roboto Slab', serif;
+    text-decoration: none;
+}
+a:hover{
+    opacity: 0.7;
+}
+
+html{
+    scroll-behavior: smooth;
+}

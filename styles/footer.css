@@ -1,0 +1,23 @@
+#footer {
+    padding: 10px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer p{
+    
+    font-weight: 700;
+}
+
+#footer p a {
+    color: #2F8BE7;
+}
+
+@media (max-width:410px){
+    footer p{
+        font-size: 12px;
+        font-weight: 300;
+    }
+}

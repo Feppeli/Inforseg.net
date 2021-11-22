@@ -1,0 +1,29 @@
+
+#section1{
+    padding: 90px;
+    margin-top: 150px;
+    background-color: #2F8BE7;
+}
+
+section .contain{
+    justify-content: space-around;
+
+}
+
+.elemento{
+    color: #fff;
+    text-align: center;
+    
+}
+
+@media (max-width:600px) {
+    section .contain{
+        flex-direction: column;
+    }
+    #section1{
+        padding: 30px;
+    }
+    .elemento{
+        margin-top: 8px;
+    }
+}
