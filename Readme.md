@@ -3,7 +3,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-- [Acesse o Projeto](https://inforsegnet.github.io/Home/)
+
 
 
 ## 🚀 Tecnologias
@@ -31,6 +31,7 @@ Este projeto é uma página vitrine no formato One Page, responsiva, para usar c
 ## 🔖 Layout
 
 Criado por [Lipecode](https://www.instagram.com/lipecode/)
+Acesse o [Projeto](https://inforsegnet.github.io/Home/)
 ---
 
 Feito com ♥ by Felipe Teixeira :wave:
